@@ -1,0 +1,11 @@
+Hangman
+
+Program chooses random word from dictionary
+Random word substituted for blank characters
+Asks for input to guess a letter 
+Verifies input is a letter, if not gives error
+Checks if letter is in word- if so replaces blank with letter, if not asks choose again
+Keeps track of how many guesses player has (optional)
+Input option to guess full correct word
+Once guessed correctly or all letters guessed, output 'You win!'
+Remembers same word through guesses- does not choose another word until player wins or presses 'Give up'
